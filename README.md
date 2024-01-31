@@ -46,8 +46,6 @@ Unterschiedliche Grafiken erfordern unterschiedliche Alternativ-Texte. Dabei sol
 Die häufigsten Fälle:
 1. Die Grafik ist nicht verlinkt und vermittelt Bildinformation (z.B. ein Foto): alt=“Beschreibung des Inhalts des Bildes“
 2. Die Grafik ist verlinkt und verweist z.B. auf einen Artikel: alt=“Artikelüberschrift“
-3. Die Grafik ist ein interaktives Element und löst eine Aktion aus, z.B. ein Hamburger-Icon: alt=“Menü öffnen“
-4. Rein dekorative Grafiken brauchen keinen Alternativtext: alt= ““
 
 Weitere Fälle können im [Alt-Decision-Tree(Englisch)](https://www.w3.org/WAI/tutorials/images/decision-tree/) nachgeschlagen werden. Weitere [Infos zu Alternativtexten auf Deutsch](https://bik-fuer-alle.de/alternativtexte-fuer-grafiken.html)
 
@@ -84,16 +82,18 @@ Achten Sie darauf, Informationen nicht ausschließlich durch Farben zu vermittel
 
 ## Video & Audio
 
-Video & Audioinhalte benötigen Untertitel, Transkript und Gebärdensprachenversionen um barrierefrei zu sein.
+Video & Audioinhalte benötigen Untertitel, Transkripte, Audiodeskriptionen und Gebärdensprachenversionen um barrierefrei zu sein.
 
 [Leitfaden zu audiovisuellen Medien in den WCAG](https://www.w3.org/WAI/media/av/)
 
 
 ## Tabellen
 Sehbehinderte Menschen, die Bildschirmvorleseprogramme verwenden, erschließen sich Tabellen, indem sie mit der Tastatur durch die Spalten und Zeilen navigieren.
-Tabellen sollten daher so einfach wie möglich gestaltet werden. * Lieber zwei einfache Tabellen anstelle einer komplexen
-* keine leeren Zellen für zusätzlichen Abstand einzufügen
-* die Zeilen- und Spaltenüberschriften deutlich kennzeichnen
+Tabellen sollten daher so einfach wie möglich gestaltet werden.
+* Lieber zwei einfache Tabellen anstelle einer komplexen
+* Keine leeren Zellen für zusätzlichen Abstand einzufügen
+* Die Zeilen- und Spaltenüberschriften deutlich kennzeichnen
+* Tabellen dürfen nur für tabellarische Inhalte verwendet werden und auf keinen Fall um damit Layouts zu bauen
 
 ## Quellen
 
