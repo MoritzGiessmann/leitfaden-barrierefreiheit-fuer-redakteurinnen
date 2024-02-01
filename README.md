@@ -1,3 +1,7 @@
+> [!NOTE]  
+> Dieser Guide lebt jetzt auf https://moritzgiessmann.de/blog/posts/leitfaden-barrierefreiheit-fuer-redakteurinnen/
+> Updates erfolgen nur noch dort
+
 # Leitfaden Barrierefreiheit für Redakteur*innen
 
 Dieser Leitfaden wurde erstellt, um es Redakteur*innen leichter zu machen barrierefreie Inhalte zu erstellen. Er enthält die wichtigsten Regeln in möglichst kurzer Form. Er bildet nicht alle potentiell gültigen Regeln ab. Das komplette zugrundeliegende Regelwerk sind die [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2)(Englisch).
