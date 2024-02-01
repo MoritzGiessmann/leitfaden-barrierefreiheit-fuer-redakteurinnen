@@ -25,7 +25,7 @@ Verwenden Sie **Überschriften, Listen und Absätze** um Texte zu strukturieren.
 
 ### Überschriftenhierarchie
 
-Verwenden Sie Überschriften in **austeigender Hierarchie**. Einzelne Überschriftenebenen dürfen nicht übersprungen werden.
+Verwenden Sie Überschriften in **aufsteigender Hierarchie**. Einzelne Überschriftenebenen dürfen nicht übersprungen werden.
 
 **Beispiel**: Nach einer „Überschrift Ebene 2“ kommt entweder eine weitere mit der Ebene 2, oder eine der Ebene 3.
 
@@ -65,6 +65,20 @@ Linktexte müssen den Inhalt/Zweck des Linkziels beschreiben.
 **Besser**: Der Titel oder die erste Überschrift der Zielseite.
 **Bei Downloads**: Dateityp und -größe angeben, z.B. „Quartalszahlen 2023 (PDF, 20MB)".
 
+## Tabellen
+Sehbehinderte Menschen, die Bildschirmvorleseprogramme verwenden, erschließen sich Tabellen, indem sie mit der Tastatur durch die Spalten und Zeilen navigieren.
+Tabellen sollten daher so einfach wie möglich gestaltet werden.
+* Lieber zwei einfache Tabellen anstelle einer komplexen
+* Keine leeren Zellen für zusätzlichen Abstand einzufügen
+* Die Zeilen- und Spaltenüberschriften deutlich kennzeichnen
+* Tabellen dürfen nur für tabellarische Inhalte verwendet werden und auf keinen Fall um damit Layouts zu bauen
+
+* ## Video & Audio
+
+Video & Audioinhalte benötigen Untertitel, Transkripte, Audiodeskriptionen und Gebärdensprachenversionen um barrierefrei zu sein.
+
+[Leitfaden zu audiovisuellen Medien in den WCAG](https://www.w3.org/WAI/media/av/)
+
 ## Farben
 Eigentlich sollten Sie als Redakteur*in nicht mit Farben in Berührung kommen, weil die bereitgestellten Formatvorlagen alle Fälle abdecken und bereits optimiert sind. Diese Regeln gelten für den Fall, dass sie wider Erwarten etwas Neues erfinden müssen.
 
@@ -80,20 +94,6 @@ Achten Sie darauf, Informationen nicht ausschließlich durch Farben zu vermittel
 
 **Beispiel 2**: Bei einem Schaubild mit verschiedenen Kurven sollte die Unterscheidung zwischen den Kurven nicht nur durch Farben erfolgen, sondern auch durch unterschiedliche Darstellungsformen wie beispielsweise gestrichelte oder gepunktete Linien.
 
-## Video & Audio
-
-Video & Audioinhalte benötigen Untertitel, Transkripte, Audiodeskriptionen und Gebärdensprachenversionen um barrierefrei zu sein.
-
-[Leitfaden zu audiovisuellen Medien in den WCAG](https://www.w3.org/WAI/media/av/)
-
-
-## Tabellen
-Sehbehinderte Menschen, die Bildschirmvorleseprogramme verwenden, erschließen sich Tabellen, indem sie mit der Tastatur durch die Spalten und Zeilen navigieren.
-Tabellen sollten daher so einfach wie möglich gestaltet werden.
-* Lieber zwei einfache Tabellen anstelle einer komplexen
-* Keine leeren Zellen für zusätzlichen Abstand einzufügen
-* Die Zeilen- und Spaltenüberschriften deutlich kennzeichnen
-* Tabellen dürfen nur für tabellarische Inhalte verwendet werden und auf keinen Fall um damit Layouts zu bauen
 
 ## Quellen
 
